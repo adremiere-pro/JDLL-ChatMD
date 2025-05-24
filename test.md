@@ -1,3 +1,7 @@
+---
+avatar: https://avatars.githubusercontent.com/u/69202143?s=400&u=52dd15300191a0944e6a9b76e4e971368f747f09&v=4
+---
+
 # La philosophie de la technique
 
 Bonjour, voici le chatbot réalisé durant l'atelier des Journées du Logiciel Libre 2025.  
