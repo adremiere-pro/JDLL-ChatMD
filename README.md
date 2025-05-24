@@ -1,4 +1,4 @@
-# Journées du Logiciel Libre 25 : **Initiation à Chatbot MD** par cedric.eyssette@ac-lyon.fr
+# Journées du Logiciel Libre 25 : **Initiation à Chatbot MD** par cedric.eyssette
 
 ## Contexte
 - Limiter l’IA dans les institutions publiques (cf : l’intervenant est professeur)
